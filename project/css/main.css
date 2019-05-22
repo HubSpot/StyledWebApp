@@ -1,0 +1,74 @@
+
+body {
+  font-family: Arial, serif;
+  text-align: center;
+  color: #343a40;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  margin-top: 40px;
+  font-size: 48px;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: #00a38d;
+}
+
+.page-header {
+  background-color: #00bda5;
+  padding-top: 40px;
+  padding-bottom: 80px;
+  color: #ffffff;
+  margin-bottom: 80px;
+}
+
+.nav-link {
+  color: #e5f8f6;
+}
+
+.nav-link:hover {
+  color: #00a38d;
+}
+
+/* Home Page */
+.jumbotron {
+  background-color: #f5f8fa;
+  text-align: left;
+}
+
+.jumbotron p {
+  margin-top: 30px;
+}
+
+/* About page */
+.avatar {
+  display: block;
+  margin: 0 auto;
+  height: 160px;
+  margin-bottom: 60px;
+}
+
+.about p {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
+
+/* Projects page */
+
+.lessons {
+  margin-top: 80px;
+}
+
+.lessons p {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 40px;
+  min-height: 80px;
+}
