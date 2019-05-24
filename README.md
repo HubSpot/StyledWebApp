@@ -17,7 +17,8 @@ You can see that your new pages are empty right now. Copy the content from the i
 #### 3. Hook up the pages so they render
 
 Head to your “start.js” file. This function below tells your app to render the index page when it gets a request for the app’s URL:
-```app.get('/', function(request, response) {
+```
+app.get('/', function(request, response) {
   response.render('pages/index');
 });
 ```
