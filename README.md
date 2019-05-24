@@ -4,7 +4,7 @@ Check it out at: https://boiling-bastion-10158.herokuapp.com/
 
 _Note: Unlike with the Base Web App, you shouldn't fork and clone the code in this repo onto your machine. Instead, try to follow the instructions below, using the code in this repo as a reference._
 
-## Part Two: Adding Pages and Navigation
+## Part One: Adding Pages and Navigation
  
 In this section, you’ll add additional pages to your app and create navigation for users to move through your app’s pages. . We’re going to use the example of a personal website today, but feel free to add whatever pages you’d like. 
 
