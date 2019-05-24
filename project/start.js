@@ -13,10 +13,12 @@ app.get('/', function(request, response) {
   response.render('pages/index');
 });
 
+// Code to render the "about" page
 app.get('/about', function(request, response) {
   response.render('pages/about');
 });
 
+// Code to render the "projects" page
 app.get('/projects', function(request, response) {
   response.render('pages/projects');
 });
