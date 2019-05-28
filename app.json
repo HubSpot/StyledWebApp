@@ -1,8 +1,8 @@
 {
-  "name": "Build Your First Webapp",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "",
+  "name": "Styled Web App",
+  "description": "A Node.js app that demonstrates how to add additional pages and styling using tools like Bootstrap",
+  "repository": "https://github.com/HubSpot/StyledWebApp",
   "logo": "",
-  "keywords": ["node", "express", "static"],
+  "keywords": ["node", "express", "static", "bootstrap"],
   "image": "heroku/nodejs"
 }
